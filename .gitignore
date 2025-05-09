@@ -1,1 +1,11 @@
 data/assessments.csv
+data/
+checkpoints/
+checkpoints_main/
+checkpoints_no_redact/
+checkpoints_old/
+checkpoints_tax/
+old/
+slurm/
+*.pkl
+
